@@ -117,16 +117,3 @@ window.addEventListener('offline', () => {
 });
 ```
 
----
-
-## Future Enhancements
-
-* Add mobile touch support
-* Leaderboard via localStorage or Firebase
-* Cockroach animation and random movement
-* Level-up system
-* Sound and music volume sliders
-* Game over screen and restart button
-
----
-
